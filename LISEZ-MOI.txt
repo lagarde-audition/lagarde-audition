@@ -1,0 +1,9 @@
+LAGARDE AUDITION — VERSION 9
+
+Site statique autonome : ouvrir index.html ou déposer tous les fichiers et le dossier assets sur GitHub Pages.
+
+Nouveautés : page « Votre appareillage » ; « Notre histoire » et accès dans « Le cabinet » ; liens depuis l’accueil et les services.
+
+Les noms Rexton, Unitron et Starkey sont affichés en typographie, sans reproduction non vérifiée de leurs logos officiels.
+
+À vérifier avant publication : conditions précises des garanties et de l’assurance, modalités de l’essai, informations légales et politique de confidentialité.
