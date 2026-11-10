@@ -31,3 +31,18 @@
 .story-mark > * {
   font-size: inherit;
 }
+
+/* Correction du logo LAGARDE sur téléphone */
+@media (max-width: 600px) {
+  .story-mark {
+    font-size: 24px;
+    letter-spacing: 0;
+    padding: 8px;
+    overflow: hidden;
+  }
+
+  .story-mark > * {
+    font-size: 24px;
+    letter-spacing: 0;
+  }
+}
