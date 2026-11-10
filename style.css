@@ -19,3 +19,15 @@
   font-size: clamp(24px, 3vw, 38px);
   text-align: center;
 }
+
+/* Ajustement du mot LAGARDE dans son cadre */
+.story-mark {
+  font-size: 30px;
+  letter-spacing: 0;
+  white-space: nowrap;
+  text-align: center;
+}
+
+.story-mark > * {
+  font-size: inherit;
+}
